@@ -1,2 +1,2 @@
 # verba-gen-samples
-HTML generator for verbastudio samples page.
+HTML generator for verba samples page.

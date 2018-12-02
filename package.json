@@ -1,0 +1,35 @@
+{
+  "name": "verba-gen-samples",
+  "version": "0.0.0",
+  "description": "HTML generator for verba samples page",
+  "main": "dist/src/index.js",
+  "bin": {
+    "hexlet": "dist/bin/verba-gen-samples.js"
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "test": "jest",
+    "build": "NODE_ENV=production babel src --out-dir dist --source-maps inline",
+    "prepublishOnly": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanarise/verba-gen-samples.git"
+  },
+  "keywords": [],
+  "author": "Aleksandr Chupakhin <sanarise@yandex.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanarise/verba-gen-samples/issues"
+  },
+  "homepage": "https://github.com/sanarise/verba-gen-samples#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.1.5",
+    "@babel/core": "^7.1.6",
+    "@babel/node": "^7.0.0",
+    "@babel/preset-env": "^7.1.6",
+    "jest": "^23.6.0"
+  }
+}
