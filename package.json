@@ -25,6 +25,9 @@
     "url": "https://github.com/sanarise/verba-gen-samples/issues"
   },
   "homepage": "https://github.com/sanarise/verba-gen-samples#readme",
+  "jest": {
+    "testEnvironment": "node"
+  },
   "devDependencies": {
     "@babel/cli": "^7.1.5",
     "@babel/core": "^7.1.6",
