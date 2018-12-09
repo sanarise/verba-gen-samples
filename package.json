@@ -1,6 +1,6 @@
 {
   "name": "sanarise-verba-gen-samples",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "HTML generator for verba samples page",
   "main": "dist/src/index.js",
   "bin": {
