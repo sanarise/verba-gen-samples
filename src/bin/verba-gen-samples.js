@@ -1,18 +1,31 @@
 #!/usr/bin/env node
 
 import commander from 'commander';
+import _ from 'lodash';
 import { version } from '../../package.json';
+import genSamples from '..';
+import { renderMarkdown, renderHtml } from '../renderers';
 
-const processAction = (inputFile, outputFile) => {
-  console.log('args:', inputFile, outputFile);
-  console.log('opts:', commander.format);
+const outputFormats = {
+  md: renderMarkdown,
+  html: renderHtml,
+};
+
+const processAction = (inputFile) => {
+  if (!_.has(outputFormats, commander.format)) {
+    console.log(`Unknown output format "${commander.format}". `
+      + `Available formats: ${_.keys(outputFormats).join(', ')}.`);
+    return;
+  }
+
+  console.log(genSamples(inputFile, outputFormats[commander.format]));
 };
 
 commander
   .description('Generate textile samples markup.')
   .option('-f, --format [type]', 'output format', 'md')
   .version(version)
-  .arguments('<input_file> <output_file>')
+  .arguments('<input_file>')
   .action(processAction)
   .parse(process.argv);
 
