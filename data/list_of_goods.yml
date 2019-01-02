@@ -35,10 +35,10 @@
     name: Стрекозы (компаньон)
     url:
   - id: 1012
-    name: Котики (основа)
-    url: https://www.livemaster.ru/item/27639793-materialy-dlya-tvorchestva-tensel-tkan-dlya-postelnogo-belya-
+    name: Кремовый
+    url:
   - id: 1013
-    name: Котики (компаньон)
+    name: Молочный
     url:
 - category: Тенсель 40
   list:
@@ -59,6 +59,12 @@
     url: https://www.livemaster.ru/item/27466215-materialy-dlya-tvorchestva-tkan-dlya-postelnogo-belya-livadiy
   - id: 2006
     name: Ливадия (компаньон)
+    url:
+  - id: 2007
+    name: Котики (основа)
+    url: https://www.livemaster.ru/item/27639793-materialy-dlya-tvorchestva-tensel-tkan-dlya-postelnogo-belya-
+  - id: 2008
+    name: Котики (компаньон)
     url:
 - category: Полутенсель
   list:
@@ -118,7 +124,7 @@
     name: Молочный
     url: https://www.livemaster.ru/item/25176249-materialy-dlya-tvorchestva-satin-molochnyj-premium-tkan-dlya-
   - id: 5006
-    name: Белоснежный
+    name: Белый
     url: https://www.livemaster.ru/item/25176783-materialy-dlya-tvorchestva-satin-premium-belosnezhnyj-shirina
   - id: 5007
     name: Благородный Серый
@@ -174,8 +180,11 @@
     name: Птичка певчая (компаньон)
     url:
   - id: 6010
-    name: Артишок (основа)
-    url: https://www.livemaster.ru/item/27142703-dlya-doma-i-interera-postelnoe-bele-satin-lyuks-artishok-ozhi
+    name: Молочный
+    url:
+  - id: 6010
+    name: Белоснежный
+    url:
   - id: 6011
-    name: Артишок (компаньон)
+    name: Шампань
     url:
