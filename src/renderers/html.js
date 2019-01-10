@@ -1,5 +1,7 @@
 // import _ from 'lodash';
 
-const render = () => '<div></div>';
+const render = (json) => {
+
+};
 
 export default render;

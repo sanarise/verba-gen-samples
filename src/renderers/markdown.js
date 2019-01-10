@@ -1,8 +1,7 @@
 // import _ from 'lodash';
 
-const render = () => {
-  console.log(1);
-  return 'test out';
+const render = (json) => {
+  console.log(JSON.stringify(json));
 };
 
 export default render;

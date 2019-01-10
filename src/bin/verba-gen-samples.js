@@ -4,11 +4,12 @@ import commander from 'commander';
 import _ from 'lodash';
 import { version } from '../../package.json';
 import genSamples from '..';
-import { renderMarkdown, renderHtml } from '../renderers';
+import { renderMarkdown, renderHtml, renderTable } from '../renderers';
 
 const outputFormats = {
   md: renderMarkdown,
   html: renderHtml,
+  table: renderTable,
 };
 
 const processAction = (inputFile) => {
