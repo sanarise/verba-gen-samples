@@ -1,8 +1,10 @@
 ---
 #
-# TAGS:
-# * archive – снятая с продажи позиция
-# * new – новая позиция
+# prod_id - код производителя
+# tags:
+#   archive – снятая с продажи позиция
+#   new – новая позиция
+#   transit - позиция находится в пути
 #
 - category: Тенсель 60
   list:
@@ -10,7 +12,7 @@
     name: Розовая Пудра
     url: https://www.livemaster.ru/item/26310401-materialy-dlya-tvorchestva-tensel-tkan-dlya-postelnogo-belya-
   - id: 1002
-    name: Коралл
+    name: Коралловый
     url: https://www.livemaster.ru/item/26331493-materialy-dlya-tvorchestva-tensel-tkan-dlya-postelnogo-belya-
   - id: 1003
     name: Оливия (основа)
@@ -19,7 +21,7 @@
     name: Оливия (компаньон)
     url: https://www.livemaster.ru/item/28174559-materialy-dlya-tvorchestva-tkan-dlya-postelnogo-belya-tensel-
   - id: 1005
-    name: Персик
+    name: Персиковый
     url: https://www.livemaster.ru/item/26404119-materialy-dlya-tvorchestva-tensel-tkan-dlya-postelnogo-belya-
   - id: 1006
     name: Нежное Цветение (основа)
@@ -40,11 +42,19 @@
     name: Стрекозы (компаньон)
     url:
   - id: 1012
-    name: Кремовый
+    name: Пудра
     url:
+    tags: [new]
+    prod_id: 063
   - id: 1013
     name: Молочный
     url:
+    tags: [new]
+  - id: 1014
+    name: Горький Шоколад
+    url:
+    tags: [new, transit]
+    prod_id: 4229
 - category: Тенсель 40
   list:
   - id: 2001
@@ -84,17 +94,19 @@
   - id: 4001
     name: Вальс Цветов (основа)
     url: https://www.livemaster.ru/item/20247169-materialy-dlya-tvorchestva-satin-tkan-dlya-postelnogo-belya-v
+    tags: [archive]
   - id: 4002
     name: Вальс Цветов (компаньон)
     url: https://www.livemaster.ru/item/20248139-materialy-dlya-tvorchestva-satin-tkan-dlya-postelnogo-belya-v
+    tags: [archive]
   - id: 4003
     name: Серый Лайт
     url: https://www.livemaster.ru/item/24755819-materialy-dlya-tvorchestva-satin-tkan-seryj-lajt
   - id: 4004
-    name: Мята
+    name: Мятный
     url: https://www.livemaster.ru/item/24755205-materialy-dlya-tvorchestva-satin-tkan-dlya-postelnogo-belya-m
   - id: 4005
-    name: Сирень
+    name: Сиреневый
     url: https://www.livemaster.ru/item/23622775-materialy-dlya-tvorchestva-satin-tkan-dlya-postelnogo-belya-s
   - id: 4006
     name: Дымчатая Роза
@@ -128,9 +140,11 @@
   - id: 5005
     name: Молочный
     url: https://www.livemaster.ru/item/25176249-materialy-dlya-tvorchestva-satin-molochnyj-premium-tkan-dlya-
+    tags: [archive]
   - id: 5006
     name: Белый
     url: https://www.livemaster.ru/item/25176783-materialy-dlya-tvorchestva-satin-premium-belosnezhnyj-shirina
+    tags: [archive]
   - id: 5007
     name: Благородный Серый
     url: https://www.livemaster.ru/item/22775293-materialy-dlya-tvorchestva-satin-premium-tkan-dlya-postelnogo
@@ -143,6 +157,7 @@
   - id: 5010
     name: Шампань
     url: https://www.livemaster.ru/item/22775771-materialy-dlya-tvorchestva-satin-premium-tkan-shampan
+    tags: [archive]
   - id: 5011
     name: Лаванда
     url: https://www.livemaster.ru/item/26274979-materialy-dlya-tvorchestva-satin-premium-dlya-postelnogo-bely
@@ -158,7 +173,7 @@
 - category: Сатин Люкс
   list:
   - id: 6001
-    name: Серебро
+    name: Серебристый
     url: https://www.livemaster.ru/item/26494525-materialy-dlya-tvorchestva-satin-lyuks-serebro
   - id: 6002
     name: Синий
@@ -187,9 +202,12 @@
   - id: 6010
     name: Белоснежный
     url:
+    tags: [new]
   - id: 6011
     name: Шампань
     url:
+    tags: [new]
   - id: 6012
     name: Молочный
     url:
+    tags: [new]
