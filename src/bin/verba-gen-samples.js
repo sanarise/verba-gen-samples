@@ -15,7 +15,7 @@ const outputFormats = {
 const processAction = (inputFile) => {
   if (!_.has(outputFormats, commander.format)) {
     console.log(`Unknown output format "${commander.format}". `
-      + `Available formats: ${_.keys(outputFormats).join(', ')}.`);
+                + `Available formats: ${_.keys(outputFormats).join(', ')}.`);
     return;
   }
 

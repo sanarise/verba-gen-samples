@@ -17,7 +17,7 @@ const renderCells = (json) => {
     }
     const cells = _.map(data, rec => {
       const cellData = rec.list[level];
-      return cellData ? `<td>${cellData.id}<br>${cellData.name}</td>` : '<td></td>'
+      return cellData ? `<td>${cellData.id}<br>${cellData.name}</td>` : '<td></td>';
     });
     return [`<tr>${cells.join('')}</tr>`, renderLevel(data, level + 1)].join('\n');
   };
