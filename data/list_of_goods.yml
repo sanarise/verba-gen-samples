@@ -1,6 +1,6 @@
 ---
 #
-# prod_id - код производителя
+# pid - код производителя
 # tags:
 #   archive – снятая с продажи позиция
 #   tails – позиция в остатках
@@ -46,16 +46,61 @@
     name: Пудра
     url: https://www.livemaster.ru/item/29759277-materialy-dlya-tvorchestva-tensel-lyuks-pudra-tkan-dlya-poste
     tags: [new]
-    prod_id: 063
+    pid: 063
   - id: 1013
     name: Молочный
     url: https://www.livemaster.ru/item/29760383-materialy-dlya-tvorchestva-tensel-lyuks-molochnyj-teplyj-bely
     tags: [new]
+    pid: RST 013
   - id: 1014
-    name: Горький Шоколад
+    name: Тауп
     url:
-    tags: [transit]
-    prod_id: 4229
+    tags: [new]
+    pid: 4229
+    cost: 335
+  - id: 1015
+    name: Морская Волна
+    url:
+    tags: [new]
+    cost: 320
+  - id: 1016
+    name: Ананасы
+    url:
+    tags: [new]
+    cost: 370
+  - id: 1017
+    name: Темно-зеленый
+    desc: компаньон к "Ананасы"
+    url:
+    tags: [new]
+    cost: 370
+  - id: 1018
+    name: Розовый Фламинго
+    url:
+    tags: [new]
+    cost: 370
+  - id: 1019
+    name: Теплый Розовый
+    desc: компаньон к "Розовый Фламинго"
+    url:
+    tags: [new]
+    cost: 370
+  - id: 1020
+    name: Беатрис
+    url:
+    tags: [new]
+    cost: 370
+  - id: 1021
+    name: Серый
+    desc: компаньон к "Беатрис"
+    url:
+    tags: [new]
+    cost: 370
+  - id: 1022
+    name: Темный Циан
+    url:
+    tags: [new]
+    cost: 335
 - category: Тенсель 40
   list:
   - id: 2001
@@ -64,7 +109,7 @@
     tags: [tails]
   - id: 2002
     name: Южная Ночь (компаньон)
-    url: https://www.livemaster.ru/item/21756141-materialy-dlya-tvorchestva-tkan-tensel-dlya-postelnogo-belya-
+    url: https:iiiii//www.livemaster.ru/item/21756141-materialy-dlya-tvorchestva-tkan-tensel-dlya-postelnogo-belya-
     tags: [tails]
   - id: 2003
     name: Шармель (основа)
@@ -84,6 +129,26 @@
   - id: 2008
     name: Котики (компаньон)
     url:
+  - id: 2009
+    name: Английская Клетка (основа)
+    url:
+    tags: [new]
+    cost: 290
+  - id: 2010
+    name: Английская Клетка (компаньон)
+    url:
+    tags: [new]
+    cost: 290
+  - id: 2011
+    name: Чернильный Вензель
+    url:
+    tags: [new]
+    cost: 290
+  - id: 2012
+    name: Розовый Вензель
+    url:
+    tags: [new]
+    cost: 290
 - category: Полутенсель
   list:
   - id: 3001
@@ -138,7 +203,8 @@
   - id: 5003
     name: Слива
     url: https://www.livemaster.ru/item/22668639-materialy-dlya-tvorchestva-satin-premium-tkan-dlya-postelnogo
-    tags: [tails]
+    cost: 367.56
+    length: 65
   - id: 5004
     name: Лайм
     url: https://www.livemaster.ru/item/22793447-materialy-dlya-tvorchestva-satin-premium-dlya-postelnogo-bely
@@ -190,6 +256,7 @@
   - id: 6004
     name: Райский Сад (основа)
     url: https://www.livemaster.ru/item/27139795-dlya-doma-i-interera-postelnoe-bele-satin-lyuks-rassvet
+    cost: 285
   - id: 6005
     name: Райский Сад (компаньон)
     url:
