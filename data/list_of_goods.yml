@@ -101,6 +101,31 @@
     url:
     tags: [new]
     cost: 335
+  - id: 1023
+    name: Экрю
+    url:
+    tags: [new]
+    cost: 335
+  - id: 1024
+    name: Серо Сиреневый
+    url:
+    tags: [new]
+    cost: 335
+  - id: 1025
+    name: Мята
+    url:
+    tags: [new]
+    cost: 335
+  - id: 1026
+    name: Элегия (основа)
+    url:
+    tags: [new]
+    cost: 485
+  - id: 1027
+    name: Элегия (компаньон)
+    url:
+    tags: [new]
+    cost: 485
 - category: Тенсель 40
   list:
   - id: 2001
@@ -149,6 +174,26 @@
     url:
     tags: [new]
     cost: 290
+  - id: 2013
+    name: Верона (основа)
+    url:
+    tags: [new]
+    cost: 410
+  - id: 2014
+    name: Верона (компаньон)
+    url:
+    tags: [new]
+    cost: 410
+  - id: 2015
+    name: Silver Mint Stripe (основа)
+    url:
+    tags: [new]
+    cost: 410
+  - id: 2016
+    name: Silver Mint Stripe (компаньон)
+    url:
+    tags: [new]
+    cost: 410
 - category: Полутенсель
   list:
   - id: 3001
@@ -284,3 +329,30 @@
     name: Молочный
     url:
     tags: [new]
+  - id: 6013
+    name: Флоренция (основа)
+    url:
+    tags: [new]
+    cost: 290
+  - id: 6014
+    name: Флоренция (компаньон)
+    url:
+    tags: [new]
+    cost: 290
+  - id: 6015
+    name: Теплый Розовый
+    url:
+    tags: [new]
+    cost: 265
+- category: Твил Сатин
+  list:
+  - id: 7001
+    name: Мишка в Тундре (основа)
+    url:
+    tags: [new]
+    cost: 115
+  - id: 7002
+    name: Мишка в Тундре (компаньон)
+    url:
+    tags: [new]
+    cost: 115
