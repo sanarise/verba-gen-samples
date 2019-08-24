@@ -43,20 +43,20 @@
     name: Стрекозы (компаньон)
     url:
   - id: 1012
+    pid: 063
     name: Пудра
     url: https://www.livemaster.ru/item/29759277-materialy-dlya-tvorchestva-tensel-lyuks-pudra-tkan-dlya-poste
     tags: [new]
-    pid: 063
   - id: 1013
+    pid: RST 013
     name: Молочный
     url: https://www.livemaster.ru/item/29760383-materialy-dlya-tvorchestva-tensel-lyuks-molochnyj-teplyj-bely
     tags: [new]
-    pid: RST 013
   - id: 1014
+    pid: 4229
     name: Тауп
     url:
     tags: [new]
-    pid: 4229
     cost: 335
   - id: 1015
     name: Морская Волна
@@ -107,7 +107,7 @@
     tags: [new]
     cost: 335
   - id: 1024
-    name: Серо Сиреневый
+    name: Серо-Сиреневый
     url:
     tags: [new]
     cost: 335
@@ -340,10 +340,41 @@
     tags: [new]
     cost: 290
   - id: 6015
+    pid: 323
     name: Теплый Розовый
     url:
     tags: [new]
-    cost: 265
+    cost: 251
+  - id: 6016
+    pid: 363
+    name: Серо-Сиреневый
+    url:
+    tags: [new]
+    cost: 251
+  - id: 6017
+    pid: 353
+    name: Морская Волна
+    url:
+    tags: [new]
+    cost: 251
+  - id: 6018
+    pid: 317
+    name: Шампань 2
+    url:
+    tags: [new]
+    cost: 251
+  - id: 6019
+    pid: 307
+    name: Молочный 2
+    url:
+    tags: [new]
+    cost: 251
+  - id: 6020
+    pid: 319
+    name: Олений Рог
+    url:
+    tags: [new]
+    cost: 251
 - category: Твил Сатин
   list:
   - id: 7001
