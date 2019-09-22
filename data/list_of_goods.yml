@@ -28,7 +28,8 @@
     name: Нежное Цветение (основа)
     url: https://www.livemaster.ru/item/26317067-dlya-doma-i-interera-postelnoe-bele-tensel-nezhnoe-tsvetenie
   - id: 1007
-    name: Нежное Цветение (компаньон)
+    name: Голубой Гербарий
+    desc: компаньон к "Нежное Цветение"
     url:
   - id: 1008
     name: Очарование (основа)
@@ -165,12 +166,12 @@
     tags: [new]
     cost: 290
   - id: 2011
-    name: Чернильный Вензель
+    name: Жаклин чернильный
     url:
     tags: [new]
     cost: 290
   - id: 2012
-    name: Розовый Вензель
+    name: Жаклин розовый
     url:
     tags: [new]
     cost: 290
@@ -303,7 +304,8 @@
     url: https://www.livemaster.ru/item/27139795-dlya-doma-i-interera-postelnoe-bele-satin-lyuks-rassvet
     cost: 285
   - id: 6005
-    name: Райский Сад (компаньон)
+    name: Медный
+    desc: компаньон к "Райский Сад"
     url:
   - id: 6006
     name: Перо (основа)
