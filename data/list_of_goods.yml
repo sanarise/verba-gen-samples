@@ -214,6 +214,16 @@
     url:
     tags: [new]
     cost: 290
+  - id: 2019
+    name: Валенсия (основа)
+    url:
+    tags: [new]
+    cost: 290
+  - id: 2020
+    name: Валенсия (компаньон)
+    url:
+    tags: [new]
+    cost: 290
 - category: Полутенсель
   list:
   - id: 3001
@@ -418,6 +428,16 @@
     url:
     tags: [new]
     cost: 290
+  - id: 6025
+    name: Высота
+    url:
+    tags: [new]
+    cost: 253
+  - id: 6026
+    name: Хвоя
+    url:
+    tags: [new]
+    cost: 253
 - category: Твил Сатин
   list:
   - id: 7001
