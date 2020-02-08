@@ -136,6 +136,12 @@
     url:
     tags: [new]
     cost: 335
+  - id: 1029
+    pid: 4226
+    name: Тёмно-Синий
+    url:
+    tags: [new]
+    cost: 334
 - category: Тенсель 40
   list:
   - id: 2001
