@@ -142,6 +142,18 @@
     url:
     tags: [new]
     cost: 334
+  - id: 1030
+    pid: 4226
+    name: Васильки
+    url:
+    tags: [new]
+    cost: 370
+  - id: 1031
+    name: Тиффани
+    desc: компаньон к "Васильки"
+    url:
+    tags: [new]
+    cost: 370
 - category: Тенсель 40
   list:
   - id: 2001
