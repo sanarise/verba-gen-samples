@@ -25,6 +25,14 @@ const renderCells = (json) => {
   return renderLevel(json, 0);
 };
 
-const render = json => ['<table>', renderHeader(json), renderCells(json), '</table>'].join('\n');
+const filterData = json => _.map(json, rec => ({
+  category: rec.category,
+  list: _.filter(rec.list, item => !item.tags || !_.some(item.tags, tag => tag === 'archive')),
+}));
+
+const render = (json) => {
+  const filteredJson = filterData(json);
+  return ['<table>', renderHeader(filteredJson), renderCells(filteredJson), '</table>'].join('\n');
+};
 
 export default render;
