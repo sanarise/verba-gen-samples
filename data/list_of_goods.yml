@@ -27,6 +27,7 @@
   - id: 1006
     name: Нежное Цветение (основа)
     url: https://www.livemaster.ru/item/26317067-dlya-doma-i-interera-postelnoe-bele-tensel-nezhnoe-tsvetenie
+    tags: [archive]
   - id: 1007
     name: Голубой Гербарий
     desc: компаньон к "Нежное Цветение"
@@ -40,9 +41,11 @@
   - id: 1010
     name: Стрекозы (основа)
     url: https://www.livemaster.ru/item/24651163-dlya-doma-i-interera-postelnoe-bele-tensel-strekoza
+    tags: [archive]
   - id: 1011
     name: Стрекозы (компаньон)
     url:
+    tags: [archive]
   - id: 1012
     pid: 063
     name: Пудра
@@ -159,17 +162,19 @@
   - id: 2001
     name: Южная Ночь (основа)
     url: https://www.livemaster.ru/item/21752857-materialy-dlya-tvorchestva-tkan-tensel-dlya-postelnogo-belya-
-    tags: [tails]
+    tags: [tails, archive]
   - id: 2002
     name: Южная Ночь (компаньон)
     url: https:iiiii//www.livemaster.ru/item/21756141-materialy-dlya-tvorchestva-tkan-tensel-dlya-postelnogo-belya-
-    tags: [tails]
+    tags: [tails, archive]
   - id: 2003
     name: Шармель (основа)
     url: https://www.livemaster.ru/item/27466161-materialy-dlya-tvorchestva-tensel-tkan-dlya-postelnogo-belya-
+    tags: [archive]
   - id: 2004
     name: Шармель (компаньон)
     url: https://www.livemaster.ru/item/27425939-materialy-dlya-tvorchestva-tensel-tkan-dlya-postelnogo-belya-
+    tags: [archive]
   - id: 2005
     name: Ливадия (основа)
     url: https://www.livemaster.ru/item/27466215-materialy-dlya-tvorchestva-tkan-dlya-postelnogo-belya-livadiy
