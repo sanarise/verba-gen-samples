@@ -272,10 +272,11 @@
   - id: 4003
     name: Серый Лайт
     url: https://www.livemaster.ru/item/24755819-materialy-dlya-tvorchestva-satin-tkan-seryj-lajt
+    tags: [archive]
   - id: 4004
     name: Мятный
     url: https://www.livemaster.ru/item/24755205-materialy-dlya-tvorchestva-satin-tkan-dlya-postelnogo-belya-m
-    tags: [tails]
+    tags: [archive]
   - id: 4005
     name: Сиреневый
     url: https://www.livemaster.ru/item/23622775-materialy-dlya-tvorchestva-satin-tkan-dlya-postelnogo-belya-s
@@ -285,6 +286,7 @@
   - id: 4007
     name: Розовый Нежный
     url: https://www.livemaster.ru/item/23435243-materialy-dlya-tvorchestva-tkan-satin-dlya-postelnogo-belya-r
+    tags: [archive]
   - id: 4008
     name: Лето (основа)
     url: https://www.livemaster.ru/item/23773261-materialy-dlya-tvorchestva-tkan-satin-dlya-postelnogo-belya-l
@@ -341,17 +343,21 @@
   - id: 5013
     name: Восточный орнамент (основа)
     url: https://www.livemaster.ru/item/20254509-materialy-dlya-tvorchestva-satin-premium-tkan-dlya-postelnogo
+    tags: [archive]
   - id: 5014
     name: Восточный орнамент (компаньон)
     url: https://www.livemaster.ru/item/20254509-materialy-dlya-tvorchestva-satin-premium-tkan-dlya-postelnogo
+    tags: [archive]
 - category: Сатин Люкс
   list:
   - id: 6001
     name: Серебристый
     url: https://www.livemaster.ru/item/26494525-materialy-dlya-tvorchestva-satin-lyuks-serebro
+    tags: [archive]
   - id: 6002
     name: Синий
     url: https://www.livemaster.ru/item/26495419-materialy-dlya-tvorchestva-satin-lyuks-sinij
+    tags: [archive]
   - id: 6003
     name: Чёрный
     url: https://www.livemaster.ru/item/27180109-materialy-dlya-tvorchestva-satin-lyuks-dlya-postelnogo-belya-
