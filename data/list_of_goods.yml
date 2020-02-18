@@ -161,6 +161,17 @@
     url:
     tags: [new]
     cost: 334
+  - id: 1033
+    name: Идиллия (одуванчики)
+    url:
+    tags: [new]
+    cost: 485
+  - id: 1034
+    name: Сиреневый
+    desc: компаньон к "Идиллия"
+    url:
+    tags: [new]
+    cost: 470
 - category: Тенсель 40
   list:
   - id: 2001
