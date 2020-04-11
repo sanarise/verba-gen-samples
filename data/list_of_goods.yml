@@ -96,6 +96,7 @@
     tags: [new]
     cost: 370
   - id: 1021
+    pid: 4216
     name: Серый
     url:
     tags: [new]
