@@ -119,6 +119,7 @@
     tags: [new]
     cost: 335
   - id: 1025
+    pid: RST078
     name: Хвойный
     url:
     tags: [new]
