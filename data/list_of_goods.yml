@@ -11,318 +11,256 @@
   list:
   - id: 1001
     name: Розовая Пудра
-    url: https://www.livemaster.ru/item/26310401-materialy-dlya-tvorchestva-tensel-tkan-dlya-postelnogo-belya-
   - id: 1002
     name: Коралловый
-    url: https://www.livemaster.ru/item/26331493-materialy-dlya-tvorchestva-tensel-tkan-dlya-postelnogo-belya-
   - id: 1003
     name: Оливия (основа)
-    url: https://www.livemaster.ru/item/28174463-materialy-dlya-tvorchestva-tensel-tkan-dlya-postelnogo-belya-
     tags: [archive]
   - id: 1004
     name: Оливия (компаньон)
-    url: https://www.livemaster.ru/item/28174559-materialy-dlya-tvorchestva-tkan-dlya-postelnogo-belya-tensel-
   - id: 1005
     name: Персиковый
-    url: https://www.livemaster.ru/item/26404119-materialy-dlya-tvorchestva-tensel-tkan-dlya-postelnogo-belya-
   - id: 1006
     name: Нежное Цветение (основа)
-    url: https://www.livemaster.ru/item/26317067-dlya-doma-i-interera-postelnoe-bele-tensel-nezhnoe-tsvetenie
     tags: [archive]
   - id: 1007
     name: Голубой Гербарий
     desc: компаньон к "Нежное Цветение"
-    url:
   - id: 1008
     name: Очарование (основа)
-    url: https://www.livemaster.ru/item/28228863-materialy-dlya-tvorchestva-tensel-tkan-dlya-postelnogo-belya-
   - id: 1009
     name: Очарование (компаньон)
-    url:
   - id: 1010
     name: Стрекозы (основа)
-    url: https://www.livemaster.ru/item/24651163-dlya-doma-i-interera-postelnoe-bele-tensel-strekoza
     tags: [archive]
   - id: 1011
     name: Стрекозы (компаньон)
-    url:
     tags: [archive]
   - id: 1012
     pid: 063
     name: Пудра
-    url: https://www.livemaster.ru/item/29759277-materialy-dlya-tvorchestva-tensel-lyuks-pudra-tkan-dlya-poste
     tags: [new]
   - id: 1013
-    pid: RST 013
+    pid: RST013
     name: Молочный
-    url: https://www.livemaster.ru/item/29760383-materialy-dlya-tvorchestva-tensel-lyuks-molochnyj-teplyj-bely
     tags: [new]
+    dortak: [632]
   - id: 1014
     pid: 4229
     name: Тауп
-    url:
     tags: [new]
     cost: 335
   - id: 1015
     pid: 048
     name: Морская Волна
-    url:
     tags: [new]
     cost: 320
   - id: 1016
     name: Ананасы
-    url:
     tags: [new]
     cost: 370
   - id: 1017
     name: Темно-зеленый
     desc: компаньон к "Ананасы"
-    url:
     cost: 370
   - id: 1018
     name: Розовый Фламинго
-    url:
     tags: [new]
     cost: 370
   - id: 1019
     name: Теплый Розовый
     desc: компаньон к "Розовый Фламинго"
-    url:
     tags: [new]
     cost: 370
   - id: 1020
     name: Беатрис
-    url:
     tags: [new]
     cost: 370
   - id: 1021
     pid: 4216
     name: Серый
-    url:
     tags: [new]
     cost: 370
     dortak: [285]
   - id: 1022
     name: Темный Циан
-    url:
     tags: [new]
     cost: 335
   - id: 1023
     pid: 4217
     name: Экрю
-    url:
     tags: [new]
     cost: 385
   - id: 1024
     pid: 086
     name: Серо-Сиреневый
-    url:
     tags: [new]
     cost: 335
   - id: 1025
     pid: RST078
     name: Хвойный
-    url:
     tags: [new]
     cost: 335
   - id: 1026
     name: Элегия (основа)
-    url:
     tags: [new]
     cost: 485
   - id: 1027
     name: Элегия (компаньон)
-    url:
     tags: [new]
     cost: 485
   - id: 1028
     pid: 4218
     name: Глубинный Синий
-    url:
     tags: [new]
     cost: 335
   - id: 1029
     pid: 4226
     name: Тёмно-Синий
-    url:
     tags: [new]
     cost: 334
   - id: 1030
     pid: 4226
     name: Васильки
-    url:
     tags: [new]
     cost: 370
   - id: 1031
     name: Мятный
     desc: компаньон к "Васильки"
-    url:
     tags: [new]
     cost: 370
     dortak: 362
   - id: 1032
     name: Абрикосовый
-    url:
     tags: [new]
     cost: 334
   - id: 1033
     name: Идиллия (одуванчики)
-    url:
     tags: [new]
     cost: 485
   - id: 1034
     name: Сиреневый
     desc: компаньон к "Идиллия"
-    url:
     tags: [new]
     cost: 470
   - id: 1035
     name: Темно-Сиреневый Орнамент
-    url:
     tags: [new]
     cost: 426
   - id: 1036
     name: Теплый Бежевый
     desc: компаньон к "Темно-Сиреневый Орнамент"
-    url:
     tags: [new]
     cost: 426
   - id: 1037
     pid: RST076
     name: Оловянный
-    url:
     tags: [new]
     cost: 385
     dortak: [314, 700]
   - id: 1038
     pid: 4228
     name: Графит
-    url:
     tags: [new]
     cost: 385
   - id: 1039
     pid: RST065
     name: Розовая Пудра
-    url:
     tags: [new]
     cost: 385
   - id: 1040
     pid: 4307
     name: Сливочный
-    url:
     tags: [new]
     cost: 385
   - id: 1041
     pid: RST074
     name: Винный
-    url:
     tags: [new]
     cost: 385
   - id: 1042
     pid: 4253
     name: Теплый Бежевый
-    url:
     tags: [new]
     cost: 385
 - category: Тенсель 40
   list:
   - id: 2001
     name: Южная Ночь (основа)
-    url: https://www.livemaster.ru/item/21752857-materialy-dlya-tvorchestva-tkan-tensel-dlya-postelnogo-belya-
     tags: [tails, archive]
   - id: 2002
     name: Южная Ночь (компаньон)
-    url: https:iiiii//www.livemaster.ru/item/21756141-materialy-dlya-tvorchestva-tkan-tensel-dlya-postelnogo-belya-
     tags: [tails, archive]
   - id: 2003
     name: Шармель (основа)
-    url: https://www.livemaster.ru/item/27466161-materialy-dlya-tvorchestva-tensel-tkan-dlya-postelnogo-belya-
     tags: [archive]
   - id: 2004
     name: Шармель (компаньон)
-    url: https://www.livemaster.ru/item/27425939-materialy-dlya-tvorchestva-tensel-tkan-dlya-postelnogo-belya-
     tags: [archive]
   - id: 2005
     name: Ливадия (основа)
-    url: https://www.livemaster.ru/item/27466215-materialy-dlya-tvorchestva-tkan-dlya-postelnogo-belya-livadiy
   - id: 2006
     name: Ливадия (компаньон)
-    url:
   - id: 2007
     name: Котики (основа)
-    url: https://www.livemaster.ru/item/27639793-materialy-dlya-tvorchestva-tensel-tkan-dlya-postelnogo-belya-
   - id: 2008
     name: Котики (компаньон)
-    url:
   - id: 2009
     name: Английская Клетка (основа)
-    url:
     tags: [new]
     cost: 290
   - id: 2010
     name: Английская Клетка (компаньон)
-    url:
     tags: [new]
     cost: 290
   - id: 2011
     name: Жаклин чернильный
-    url:
     tags: [new]
     cost: 290
   - id: 2012
     name: Жаклин розовый
-    url:
     tags: [new]
     cost: 290
   - id: 2013
     name: Верона (основа)
-    url:
     tags: [new]
     cost: 410
   - id: 2014
     name: Верона (компаньон)
-    url:
     tags: [new]
     cost: 410
   - id: 2015
     name: Silver Mint Stripe (основа)
-    url:
     tags: [new]
     cost: 410
   - id: 2016
     name: Silver Mint Stripe (компаньон)
-    url:
     tags: [new]
     cost: 410
   - id: 2017
     name: Версаль (серый)
-    url:
     tags: [new]
     cost: 290
   - id: 2018
     name: Версаль (шампань)
-    url:
     tags: [new]
     cost: 290
   - id: 2019
     name: Валенсия (основа)
-    url:
     tags: [new]
     cost: 290
   - id: 2020
     name: Валенсия (компаньон)
-    url:
     tags: [new]
     cost: 290
   - id: 2021
     name: Мятная свежесть
-    url:
     tags: [new]
 - category: Полутенсель
   list:
   - id: 3001
     name: Прелесть (жаккард)
-    url: https://www.livemaster.ru/item/26131267-materialy-dlya-tvorchestva-tensel-tkan-dlya-postelnogo-belya-
+    dortak: [632]
   - id: 3002
     name: Жемчужная Полынь
     url: https://www.livemaster.ru/item/25681811-materialy-dlya-tvorchestva-tensel-tkan-dlya-postelnogo-belya-
@@ -330,36 +268,27 @@
   list:
   - id: 4001
     name: Вальс Цветов (основа)
-    url: https://www.livemaster.ru/item/20247169-materialy-dlya-tvorchestva-satin-tkan-dlya-postelnogo-belya-v
     tags: [tails]
   - id: 4002
     name: Вальс Цветов (компаньон)
-    url: https://www.livemaster.ru/item/20248139-materialy-dlya-tvorchestva-satin-tkan-dlya-postelnogo-belya-v
     tags: [tails]
   - id: 4003
     name: Серый Лайт
-    url: https://www.livemaster.ru/item/24755819-materialy-dlya-tvorchestva-satin-tkan-seryj-lajt
     tags: [archive]
   - id: 4004
     name: Мятный
-    url: https://www.livemaster.ru/item/24755205-materialy-dlya-tvorchestva-satin-tkan-dlya-postelnogo-belya-m
     tags: [archive]
   - id: 4005
     name: Сиреневый
-    url: https://www.livemaster.ru/item/23622775-materialy-dlya-tvorchestva-satin-tkan-dlya-postelnogo-belya-s
   - id: 4006
     name: Дымчатая Роза
-    url: https://www.livemaster.ru/item/22796679-materialy-dlya-tvorchestva-tkan-satin-dymchataya-roza
   - id: 4007
     name: Розовый Нежный
-    url: https://www.livemaster.ru/item/23435243-materialy-dlya-tvorchestva-tkan-satin-dlya-postelnogo-belya-r
     tags: [archive]
   - id: 4008
     name: Лето (основа)
-    url: https://www.livemaster.ru/item/23773261-materialy-dlya-tvorchestva-tkan-satin-dlya-postelnogo-belya-l
   - id: 4009
     name: Лето (компаньон)
-    url: https://www.livemaster.ru/item/23773487-materialy-dlya-tvorchestva-tkan-dlya-postelnogo-belya-satin-l
   - id: 4010
     name: Дымчатая Роза Страйп (полоса 0.3см)
     url: https://www.livemaster.ru/item/22797505-materialy-dlya-tvorchestva-satin-tkan-dlya-postelnogo-belya-s
@@ -367,183 +296,142 @@
   list:
   - id: 5001
     name: Россыпь (жаккард)
-    url: https://www.livemaster.ru/item/21967137-dlya-doma-i-interera-postelnoe-bele-satin-zhakkard-premium-ro
   - id: 5002
     name: Черника
-    url: https://www.livemaster.ru/item/23111043-materialy-dlya-tvorchestva-tkan-satin-premium-dlya-postelnogo
   - id: 5003
     name: Слива
-    url: https://www.livemaster.ru/item/22668639-materialy-dlya-tvorchestva-satin-premium-tkan-dlya-postelnogo
     cost: 367.56
     length: 65
   - id: 5004
     name: Лайм
-    url: https://www.livemaster.ru/item/22793447-materialy-dlya-tvorchestva-satin-premium-dlya-postelnogo-bely
     tags: [tails]
   - id: 5005
     name: Молочный
-    url: https://www.livemaster.ru/item/25176249-materialy-dlya-tvorchestva-satin-molochnyj-premium-tkan-dlya-
     tags: [archive]
   - id: 5006
     name: Белый
-    url: https://www.livemaster.ru/item/25176783-materialy-dlya-tvorchestva-satin-premium-belosnezhnyj-shirina
     tags: [archive]
   - id: 5007
     name: Благородный Серый
-    url: https://www.livemaster.ru/item/22775293-materialy-dlya-tvorchestva-satin-premium-tkan-dlya-postelnogo
   - id: 5008
     name: Порох
-    url: https://www.livemaster.ru/item/23110913-materialy-dlya-tvorchestva-tkan-satin-premium-dlya-postelnogo
   - id: 5009
     name: Жемчужный
-    url: https://www.livemaster.ru/item/23125003-materialy-dlya-tvorchestva-satin-premium-tkan-dlya-postelnogo
   - id: 5010
     name: Шампань
-    url: https://www.livemaster.ru/item/22775771-materialy-dlya-tvorchestva-satin-premium-tkan-shampan
     tags: [tails]
   - id: 5011
     name: Лаванда
-    url: https://www.livemaster.ru/item/26274979-materialy-dlya-tvorchestva-satin-premium-dlya-postelnogo-bely
   - id: 5012
     name: Белый Страйп (полоса 1см)
-    url: https://www.livemaster.ru/item/22365423-materialy-dlya-tvorchestva-tkan-dlya-postelnogo-belya-satin-p
   - id: 5013
     name: Восточный орнамент (основа)
-    url: https://www.livemaster.ru/item/20254509-materialy-dlya-tvorchestva-satin-premium-tkan-dlya-postelnogo
     tags: [archive]
   - id: 5014
     name: Восточный орнамент (компаньон)
-    url: https://www.livemaster.ru/item/20254509-materialy-dlya-tvorchestva-satin-premium-tkan-dlya-postelnogo
     tags: [archive]
 - category: Сатин Люкс
   list:
   - id: 6001
     name: Серебристый
-    url: https://www.livemaster.ru/item/26494525-materialy-dlya-tvorchestva-satin-lyuks-serebro
     tags: [archive]
   - id: 6002
     name: Синий
-    url: https://www.livemaster.ru/item/26495419-materialy-dlya-tvorchestva-satin-lyuks-sinij
     tags: [archive]
   - id: 6003
     name: Чёрный
-    url: https://www.livemaster.ru/item/27180109-materialy-dlya-tvorchestva-satin-lyuks-dlya-postelnogo-belya-
   - id: 6004
     name: Райский Сад (основа)
-    url: https://www.livemaster.ru/item/27139795-dlya-doma-i-interera-postelnoe-bele-satin-lyuks-rassvet
     cost: 285
   - id: 6005
     name: Медный
     desc: компаньон к "Райский Сад"
-    url:
   - id: 6006
     name: Перо (основа)
-    url: https://www.livemaster.ru/item/27149111-dlya-doma-i-interera-postelnoe-bele-satin-lyuks-pero
   - id: 6007
     name: Перо (компаньон)
-    url:
   - id: 6008
     name: Птичка певчая (основа)
-    url: https://www.livemaster.ru/item/28189965-materialy-dlya-tvorchestva-satin-tkan-dlya-postelnogo-belya-l
   - id: 6009
     name: Птичка певчая (компаньон)
-    url:
   - id: 6010
     name: Белоснежный
-    url:
     tags: [new]
   - id: 6011
     name: Шампань
-    url:
     tags: [new]
   - id: 6012
     pid: 307
     name: Молочный
-    url:
     tags: [new]
     cost: 251
   - id: 6013
     name: Флоренция (основа)
-    url:
     tags: [new]
     cost: 290
   - id: 6014
     name: Салатовый
     desc: Флоренция (компаньон)
-    url:
     tags: [new]
     cost: 290
   - id: 6015
     pid: 323
     name: Светлый Розовый
-    url:
     tags: [new]
     cost: 251
   - id: 6016
     pid: 363
     name: Серо-Сиреневый
-    url:
     tags: [new]
     cost: 251
   - id: 6017
     pid: 353
     name: Аквамариновый
-    url:
     tags: [new]
     cost: 251
   - id: 6018
     pid: 317
     name: Шампань 2
-    url:
     tags: [new]
     cost: 251
   - id: 6020
     pid: 319
     name: Коричнево-бежевый
-    url:
     tags: [new]
     cost: 251
   - id: 6021
     name: Сицилия
-    url:
     tags: [new]
     cost: 290
   - id: 6022
     name: Амарантовый
     desc: компаньон к "Сицилия"
-    url:
     tags: [new]
     cost: 290
   - id: 6023
     name: Флорес
-    url:
     tags: [new]
     cost: 290
   - id: 6024
     name: Фиалковый
     desc: компаньон к "Флорес"
-    url:
     tags: [new]
     cost: 290
   - id: 6025
     name: Высота
-    url:
     tags: [new]
     cost: 253
   - id: 6026
     name: Хвоя
-    url:
     tags: [new]
     cost: 253
 - category: Твил Сатин
   list:
   - id: 7001
     name: Мишка в Тундре (основа)
-    url:
     tags: [new]
     cost: 115
   - id: 7002
     name: Мишка в Тундре (компаньон)
-    url:
     tags: [new]
     cost: 115
