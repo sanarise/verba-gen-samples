@@ -112,7 +112,7 @@
     name: Экрю
     url:
     tags: [new]
-    cost: 335
+    cost: 385
   - id: 1024
     pid: 086
     name: Серо-Сиреневый
@@ -197,6 +197,30 @@
   - id: 1038
     pid: 4228
     name: Графит
+    url:
+    tags: [new]
+    cost: 385
+  - id: 1039
+    pid: RST065
+    name: Розовая Пудра
+    url:
+    tags: [new]
+    cost: 385
+  - id: 1040
+    pid: 4307
+    name: Сливочный
+    url:
+    tags: [new]
+    cost: 385
+  - id: 1041
+    pid: RST074
+    name: Винный
+    url:
+    tags: [new]
+    cost: 385
+  - id: 1042
+    pid: 4253
+    name: Теплый Бежевый
     url:
     tags: [new]
     cost: 385
