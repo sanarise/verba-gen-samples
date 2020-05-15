@@ -418,10 +418,12 @@
     tags: [new]
     cost: 290
   - id: 6025
+    pid: 345
     name: Высота
     tags: [new]
     cost: 253
   - id: 6026
+    pid: 310
     name: Хвоя
     tags: [new]
     cost: 253
