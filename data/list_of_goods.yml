@@ -425,6 +425,31 @@
     name: Хвоя
     tags: [new]
     cost: 253
+  - id: 6028
+    pid: 308
+    name: Слива
+    tags: [new]
+    cost: 293
+  - id: 6029
+    pid: 314
+    name: Гвоздика
+    tags: [new]
+    cost: 293
+  - id: 6030
+    pid: 338
+    name: Пшеничный
+    tags: [new]
+    cost: 293
+  - id: 6031
+    pid: 316
+    name: Коричневый
+    tags: [new]
+    cost: 293
+  - id: 6032
+    pid: 309
+    name: Свадебные Розы
+    tags: [new]
+    cost: 293
 - category: Твил Сатин
   list:
   - id: 7001
