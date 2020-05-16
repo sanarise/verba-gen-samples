@@ -138,7 +138,7 @@
     desc: компаньон к "Васильки"
     tags: [new]
     cost: 370
-    dortak: 362
+    dortak: [362]
   - id: 1032
     name: Абрикосовый
     tags: [new]
