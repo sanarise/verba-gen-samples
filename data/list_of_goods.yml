@@ -124,7 +124,7 @@
     cost: 335
   - id: 1029
     pid: 4226
-    name: Тёмно-Синий
+    name: Тускло-Синий
     tags: [new]
     cost: 334
   - id: 1030
@@ -169,7 +169,7 @@
     dortak: [314, 700]
   - id: 1038
     pid: 4228
-    name: Графит
+    name: Мокрый Асфальт
     tags: [new]
     cost: 385
   - id: 1039
@@ -184,7 +184,7 @@
     cost: 385
   - id: 1041
     pid: RST074
-    name: Винный
+    name: Рубиновый
     tags: [new]
     cost: 385
   - id: 1042
