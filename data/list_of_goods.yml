@@ -192,6 +192,16 @@
     name: Теплый Бежевый
     tags: [new]
     cost: 385
+  - id: 1043
+    name: Силуэты Лета
+    tags: [new]
+    cost: 426
+  - id: 1044
+    name: Золотисто-Бежевый
+    desc: компаньон к "Силуэты Лета"
+    hex: d3cdb9
+    tags: [new]
+    cost: 426
 - category: Тенсель 40
   list:
   - id: 2001
@@ -472,11 +482,11 @@
     name: Свадебные Розы
     tags: [new]
     cost: 293
-  - id: 6032
+  - id: 6033
     name: Артишоки
     tags: [new]
     cost: 334
-  - id: 6033
+  - id: 6034
     name: Горчично Медовый
     desc: компаньон к "Артишоки"
     tags: [new]
