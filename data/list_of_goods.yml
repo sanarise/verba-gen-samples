@@ -28,6 +28,7 @@
     desc: компаньон к "Нежное Цветение"
   - id: 1008
     name: Очарование (основа)
+    dortak: [628]
   - id: 1009
     name: Очарование (компаньон)
   - id: 1010
@@ -70,12 +71,13 @@
     name: Розовый Фламинго
     tags: [new]
     cost: 370
-    dortak: [318]
+    dortak: [318, 380]
   - id: 1019
     name: Теплый Розовый
     desc: компаньон к "Розовый Фламинго"
     tags: [new]
     cost: 370
+    dortak: [139]
   - id: 1020
     name: Беатрис
     tags: [new]
@@ -127,6 +129,7 @@
     name: Тускло-Синий
     tags: [new]
     cost: 334
+    dortak: [292]
   - id: 1030
     pid: 4226
     name: Васильки
@@ -152,6 +155,8 @@
     desc: компаньон к "Идиллия"
     tags: [new]
     cost: 470
+    dortak: [736]
+    gamma: [193]
   - id: 1035
     name: Темно-Сиреневый Орнамент
     tags: [new]
@@ -192,6 +197,7 @@
     name: Теплый Бежевый
     tags: [new]
     cost: 385
+    dortak: [227, 585]
   - id: 1043
     name: Силуэты Лета
     tags: [new]
@@ -276,9 +282,11 @@
     name: Валенсия (компаньон)
     tags: [new]
     cost: 290
+    dortak: [279]
   - id: 2021
     name: Мятная свежесть
     tags: [new]
+    gamma: [406]
 - category: Полутенсель
   list:
   - id: 3001
@@ -303,6 +311,7 @@
     tags: [archive]
   - id: 4005
     name: Сиреневый
+    dortak: [155]
   - id: 4006
     name: Дымчатая Роза
   - id: 4007
