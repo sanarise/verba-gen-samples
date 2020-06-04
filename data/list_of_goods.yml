@@ -463,17 +463,18 @@
     dortak: [694]
   - id: 6026
     pid: 310
-    name: Хвоя
+    name: Хвойный
     tags: [new]
     cost: 253
   - id: 6028
     pid: 308
-    name: Слива
+    name: Сливово-Винный
     tags: [new]
     cost: 293
+    pantone: 18-1411 TCX
   - id: 6029
     pid: 314
-    name: Гвоздика
+    name: Кирпично-Красный
     tags: [new]
     cost: 293
   - id: 6030
@@ -483,7 +484,7 @@
     cost: 293
   - id: 6031
     pid: 316
-    name: Коричневый
+    name: Медно-Коричневый
     tags: [new]
     cost: 293
   - id: 6032
