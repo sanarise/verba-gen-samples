@@ -98,6 +98,7 @@
     name: Экрю
     tags: [new]
     cost: 385
+    dortak: [277]
   - id: 1024
     pid: 086
     name: Серо-Сиреневый
@@ -419,12 +420,13 @@
     name: Серо-Сиреневый
     tags: [new]
     cost: 251
-    dortak: [332]
+    dortak: [282]
   - id: 6017
     pid: 353
     name: Аквамариновый
     tags: [new]
     cost: 251
+    dortak: [440]
   - id: 6018
     pid: 317
     name: Шампань 2
@@ -432,10 +434,11 @@
     cost: 251
   - id: 6020
     pid: 319
-    name: Коричнево-бежевый
+    name: Телесно-Бежевый
     tags: [new]
     cost: 251
     dortak: [585]
+    pantone: 15-1314 TCX
   - id: 6021
     name: Сицилия
     tags: [new]
@@ -474,7 +477,7 @@
     pantone: 18-1411 TCX
   - id: 6029
     pid: 314
-    name: Кирпично-Красный
+    name: Пряно-Красный
     tags: [new]
     cost: 293
   - id: 6030
@@ -499,6 +502,15 @@
   - id: 6034
     name: Горчично Медовый
     desc: компаньон к "Артишоки"
+    tags: [new]
+    cost: 334
+  - id: 6035
+    name: Грейс
+    tags: [new]
+    cost: 334
+  - id: 6036
+    name: Белый Песок
+    desc: компаньон к "Грейс"
     tags: [new]
     cost: 334
 - category: Твил Сатин
