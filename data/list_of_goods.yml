@@ -209,14 +209,31 @@
     hex: d3cdb9
     tags: [new]
     cost: 426
+  - id: 1045
+    name: Генуя
+    tags: [new]
+    cost: 395
+  - id: 1046
+    name: Хаки
+    desc: компаньон к "Генуя"
+    tags: [new]
+    cost: 395
+  - id: 1047
+    pid: 4223
+    name: Черника
+    tags: [new]
+    cost: 365
+  - id: 1048
+    pid: rst124
+    name: Петроль
+    tags: [new]
+    cost: 365
 - category: Тенсель 40
   list:
   - id: 2001
     name: Южная Ночь (основа)
-    tags: [tails, archive]
   - id: 2002
     name: Южная Ночь (компаньон)
-    tags: [tails, archive]
   - id: 2003
     name: Шармель (основа)
     tags: [archive]
@@ -513,6 +530,27 @@
     desc: компаньон к "Грейс"
     tags: [new]
     cost: 334
+    dortak: [279, 281]
+  - id: 6037
+    pid: 306
+    name: Баклажан
+    tags: [new]
+    cost: 255
+  - id: 6038
+    pid: 355
+    name: Темно-Серый
+    tags: [new]
+    cost: 255
+  - id: 6039
+    pid: 362
+    name: Светло-Серый
+    tags: [new]
+    cost: 255
+  - id: 6040
+    pid: 370
+    name: Пепел Розы
+    tags: [new]
+    cost: 255
 - category: Твил Сатин
   list:
   - id: 7001
