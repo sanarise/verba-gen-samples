@@ -125,6 +125,7 @@
     name: Глубинный Синий
     tags: [new]
     cost: 335
+    dortak: [403]
   - id: 1029
     pid: 4226
     name: Тускло-Синий
@@ -142,7 +143,7 @@
     desc: компаньон к "Васильки"
     tags: [new]
     cost: 370
-    dortak: [362]
+    dortak: [362, 253]
   - id: 1032
     name: Абрикосовый
     tags: [new]
@@ -172,12 +173,13 @@
     name: Оловянный
     tags: [new]
     cost: 385
-    dortak: [314, 700]
+    dortak: [314, 307, 700]
   - id: 1038
     pid: 4228
     name: Мокрый Асфальт
     tags: [new]
     cost: 385
+    dortak: [297, 321]
   - id: 1039
     pid: RST065
     name: Розовая Пудра
@@ -538,7 +540,7 @@
     cost: 255
   - id: 6038
     pid: 355
-    name: Темно-Серый
+    name: Мокрый Асфальт
     tags: [new]
     cost: 255
   - id: 6039
@@ -548,7 +550,7 @@
     cost: 255
   - id: 6040
     pid: 370
-    name: Пепел Розы
+    name: Пепельно-Розовый
     tags: [new]
     cost: 255
 - category: Твил Сатин
