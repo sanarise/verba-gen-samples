@@ -230,6 +230,17 @@
     name: Петроль
     tags: [new]
     cost: 365
+  - id: 1049
+    pid: rst073
+    name: Дымчато-Синий
+    tags: [new]
+  - id: 1050
+    pid: rst130
+    name: Серо-Коричневый
+    tags: [new]
+  - id: 1051
+    name: Сизый
+    tags: [new]
 - category: Тенсель 40
   list:
   - id: 2001
