@@ -89,9 +89,9 @@
     cost: 370
     dortak: [285]
   - id: 1022
+    pid: 4234
     name: Темный Циан
     tags: [new]
-    cost: 335
     dortak: [689]
   - id: 1023
     pid: 4217
@@ -242,8 +242,24 @@
     name: Сизый
     tags: [new]
   - id: 1052
+    pid: rst145
+    name: Малахит
+    tags: [new]
+  - id: 1053
+    pid: 4220
+    name: Нежный Розовый
+    tags: [new]
+  - id: 1054
+    pid: 4268
+    name: Нюдовый Персик
+    tags: [new]
+  - id: 1055
     pid: rst137
-    name: Песок
+    name: Песочный
+    tags: [new]
+  - id: 1056
+    pid: rst020
+    name: Лаванда
     tags: [new]
 - category: Тенсель 40
   list:
