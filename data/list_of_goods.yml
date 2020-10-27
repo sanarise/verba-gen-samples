@@ -38,12 +38,12 @@
     name: Стрекозы (компаньон)
     tags: [archive]
   - id: 1012
-    pid: 063
+    pid: rst063
     name: Пудра
     tags: [new]
     dortak: [301]
   - id: 1013
-    pid: RST013
+    pid: [rst013, 4038]
     name: Молочный
     tags: [new]
     dortak: [632]
@@ -54,7 +54,7 @@
     cost: 335
     dortak: [334]
   - id: 1015
-    pid: 048
+    pid: rst048
     name: Морская Волна
     tags: [new]
     cost: 320
@@ -100,13 +100,13 @@
     cost: 385
     dortak: [277]
   - id: 1024
-    pid: 086
+    pid: rst086
     name: Серо-Сиреневый
     tags: [new]
     cost: 335
     dortak: [332]
   - id: 1025
-    pid: RST078
+    pid: rst078
     name: Хвойный
     tags: [new]
     cost: 335
@@ -169,7 +169,7 @@
     tags: [new]
     cost: 426
   - id: 1037
-    pid: RST076
+    pid: rst076
     name: Оловянный
     tags: [new]
     cost: 385
@@ -181,7 +181,7 @@
     cost: 385
     dortak: [297, 321]
   - id: 1039
-    pid: RST065
+    pid: rst065
     name: Розовая Пудра
     tags: [new]
     cost: 385
@@ -191,7 +191,7 @@
     tags: [new]
     cost: 385
   - id: 1041
-    pid: RST074
+    pid: rst074
     name: Рубиновый
     tags: [new]
     cost: 385
@@ -222,7 +222,7 @@
     cost: 395
   - id: 1047
     pid: 4223
-    name: Черника
+    name: Черничный
     tags: [new]
     cost: 365
   - id: 1048
@@ -584,6 +584,14 @@
     name: Пепельно-Розовый
     tags: [new]
     cost: 255
+  - id: 6041
+    pid: 335
+    name: Синий
+    tags: [new]
+  - id: 6042
+    pid: 629
+    name: Лайм
+    tags: [new]
 - category: Твил Сатин
   list:
   - id: 7001
