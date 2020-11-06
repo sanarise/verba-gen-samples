@@ -261,6 +261,13 @@
     pid: rst020
     name: Лаванда
     tags: [new]
+  - id: 1057
+    name: Богемия (основа)
+    tags: [new]
+  - id: 1058
+    name: Богемия (компаньон)
+    desc: компаньон к "Богемия"
+    tags: [new]
 - category: Тенсель 40
   list:
   - id: 2001
@@ -591,6 +598,10 @@
   - id: 6042
     pid: 629
     name: Лайм
+    tags: [new]
+  - id: 6043
+    pid: 378
+    name: Циан
     tags: [new]
 - category: Твил Сатин
   list:
