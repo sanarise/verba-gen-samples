@@ -604,6 +604,14 @@
     pid: 378
     name: Циан
     tags: [new]
+  - id: 6044
+    pid: 614
+    name: Серый сизоватый
+    tags: [new]
+  - id: 6045
+    pid: 339
+    name: Темно-Синий
+    tags: [new]
 - category: Твил Сатин
   list:
   - id: 7001
