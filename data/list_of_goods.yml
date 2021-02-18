@@ -263,11 +263,19 @@
     name: Лаванда
     tags: [new]
   - id: 1057
-    name: Богемия (основа)
+    pid: 4265
+    name: Ментол
     tags: [new]
   - id: 1058
+    name: Богемия (основа)
+    tags: [new]
+  - id: 1059
     name: Богемия (компаньон)
     desc: компаньон к "Богемия"
+    tags: [new]
+  - id: 1060
+    pid: 4279
+    name: Графит
     tags: [new]
 - category: Тенсель 40
   list:
